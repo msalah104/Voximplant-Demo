@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "end@10x.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "auto-scaling" : "auto"
+  }
+}
